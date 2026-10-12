@@ -1,1 +1,1 @@
-CDD LAB 7
+[![Build and Test](https://github.com/2025csmnikhilsaid-jpg/CDD_Lab7/actions/workflows/ci.yml/badge.svg)](https://github.com/2025csmnikhilsaid-jpg/CDD_Lab7/actions/workflows/ci.yml)
